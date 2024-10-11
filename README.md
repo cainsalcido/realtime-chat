@@ -20,3 +20,21 @@ This is a simple real-time chat application built with Node.js, Express, and Soc
    ```bash
    git clone https://github.com/your-username/realtime-chat.git
    cd realtime-chat
+
+2. **Install dependencies:** 
+   ```bash
+   npm install
+
+3. **Install typescript:**
+   ```bash
+   npm install - g typescript ts-node
+
+## Running the App
+
+1. compile
+   ```bash
+   tsc server.ts
+   node server.js
+or... run directly with node
+   ```bash 
+   ts-node server.ts
