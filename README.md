@@ -35,6 +35,7 @@ This is a simple real-time chat application built with Node.js, Express, and Soc
    ```bash
    tsc server.ts
    node server.js
-or... run directly with node
-   ```bash 
-   ts-node server.ts
+2. or... run directly with node
+   ```bash
+   tsc server.ts
+   node server.js
